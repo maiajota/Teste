@@ -3,6 +3,6 @@
 public record SaldoResponse(
     int Numero,
     string Nome,
-    string DataMovimento,
+    string DataConsulta,
     decimal Saldo
 );
